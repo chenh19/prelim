@@ -1,5 +1,5 @@
 ---
-title: "Hang's prelim"
+title: "Hang's prelim study nots"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
@@ -8,9 +8,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Hang's prelim study nots
-
-### Questions
+## Questions
 
 - [**Question-1**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/GGSB_Prelim_Question_1.pdf)
   - **Q1 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Quesetion_1-Reference_1.pdf), 
