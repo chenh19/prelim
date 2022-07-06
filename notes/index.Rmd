@@ -17,7 +17,7 @@ editor_options:
 
 - [ ] pick three questions
 
-### Questions
+### Questions: 
 
 #### [Question-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/GGSB_Prelim_Question_1.pdf)
 
