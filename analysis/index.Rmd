@@ -10,7 +10,7 @@ editor_options:
 
 ## Questions
 
-#### [Question-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/GGSB_Prelim_Question_1.pdf)
+### [Question-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/GGSB_Prelim_Question_1.pdf)
 
 - **Q1 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Quesetion_1-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Quesetion_1-Reference_2.pdf), 
