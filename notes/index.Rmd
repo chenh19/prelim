@@ -7,7 +7,6 @@ output:
 editor_options:
   chunk_output_type: console
 ---
-![](https://github.com/chenh19/prelim/raw/main/notes/images/exam.png)
 
 <p align="center">
   <img src="https://github.com/chenh19/prelim/raw/main/notes/images/exam.png" width=85%>
