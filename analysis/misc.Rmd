@@ -56,33 +56,13 @@ git push -u origin main
 
 **Environment: [Kubuntu 22.04 LTS](https://kubuntu.org/); [Setup Shell Scripts](https://github.com/chenh19/MyWorkspace)**
 
-## 2. Meetings
-
-- Xuanyao one-on-one: ```Tue 1pm``` and ```Thur 1pm```
-- Liu group meeting: ```Wed 1pm``` (Work-in-progress/Journal clubs)
-- Joint lab meeting (Andy & Haky groups): ```Thur 2pm``` (Work-in-progress/Journal clubs)
-- Yang lab journal club: ```Mon 1pm```
-- PBC serminar (Matthew & Xin & John groups): ```Fri 10:30am```
-- Group lunch: ```Wed 12pm```
-
-
-## 3. Git SSH configuration
+## 2. Git SSH configuration
 
 **Code:** [```git_ssh_config.sh```](https://raw.githubusercontent.com/chenh19/rotation2/main/code/0_prepare/git_ssh_config.sh)  
 
 - Ref: [YouTube](https://youtu.be/YnSMYgIybFU)
 
+## 3. Scheduel
 
-## 4. Canon printer configuration
+- Prelim exam time: week of ```9/12/2022```
 
-**Code:** [```canon_printer.sh```](https://raw.githubusercontent.com/chenh19/rotation2/main/code/0_prepare/canon_printer.sh)  
-
-- Note: the private IP address is labeled on the printer.
-- Ref: [Canon Support](https://www.usa.canon.com/internet/portal/us/home/support/details/printers/color-laser/color-imageclass-mf735cdw)
-
-
-## 5. Watering Ran's plant
-
-- [x] 6/13/22 10:30am
-- [x] 6/15/22 9:00am
-- [x] 6/20/22 8:00am
