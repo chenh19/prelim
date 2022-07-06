@@ -65,5 +65,5 @@ editor_options:
 - **Q10 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/Quesetion_10-Reference_1.pdf)
 
 #### Misc.
-- [Prelim instruction](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)
-- [Prelim information](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)
+- [**Prelim instruction**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)
+- [**Prelim information**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)
