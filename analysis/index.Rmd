@@ -1,5 +1,5 @@
 ---
-title: "Hang's Prelim Study Nots"
+title: "Hang's Prelim Study Notes"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
