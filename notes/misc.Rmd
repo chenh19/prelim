@@ -62,7 +62,7 @@ git push -u origin main
 
 - Ref: [YouTube](https://youtu.be/YnSMYgIybFU)
 
-## 3. Scheduel
+## 3. Schedule
 
 - Prelim exam time: week of ```9/12/2022```
 
