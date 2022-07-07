@@ -46,7 +46,7 @@ Note:
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/Question_3-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/Question_3-Reference_3.pdf)  
 
-```{bash,eval=FALSE}
+```{r,eval=FALSE}
 Note:
 - Not very interested in PRS, likely not to choose.
 ```
