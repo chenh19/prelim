@@ -25,7 +25,7 @@ editor_options:
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Question_1-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Question_1-Reference_3.pdf)  
 
-**Note:**  
+> **Note:**  
 
 #### [Question-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/GGSB_Prelim_Question_2.pdf)
 
@@ -33,7 +33,7 @@ editor_options:
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/Question_2-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/Question_2-Reference_3.pdf)  
 
-**Note:**  
+> **Note:**  
 
 #### [Question-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/GGSB_Prelim_Question_3.pdf)
 - **Q3 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/Question_3-Reference_1.pdf), 
@@ -51,7 +51,7 @@ editor_options:
 - **Q5 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_2.pdf)  
 
-**Note:**  
+> **Note:**  
 
 #### [Question-6](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/GGSB_Prelim_Question_6.pdf)
 - **Q6 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/Question_6-Reference_1.pdf), 
@@ -63,7 +63,7 @@ editor_options:
                 [Ref-7](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/Question_6-Reference_7.pdf), 
                 [Ref-8](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/Question_6-Reference_8.pdf)  
 
-**Note:**  
+> **Note:**  
 
 #### [Question-7](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/GGSB_Prelim_Question_7.pdf)
 - **Q7 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_1.pdf), 
@@ -72,7 +72,7 @@ editor_options:
                 [Ref-4](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_4.pdf), 
                 [Ref-5](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_5.pdf)  
                 
-**Note:** There is no Question-8  
+> **Note:** There is no Question-8  
 
 #### [Question-9](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/GGSB_Prelim_Question_9.pdf)
 - **Q9 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_1.pdf), 
@@ -84,16 +84,16 @@ editor_options:
                 [Ref-7](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_7.pdf), 
                 [Ref-8](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_8.pdf)  
 
-**Note:**  
+> **Note:**  
 
 #### [Question-10](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/GGSB_Prelim_Question_10.pdf)
 - **Q10 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/Question_10-Reference_1.pdf)  
 
-**Note:**  
+> **Note:**  
 
 ### Misc.
 
 - [**Prelim instructions**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)  
 - [**Prelim information**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)  
 
-**Note:**  
+> **Note:**  
