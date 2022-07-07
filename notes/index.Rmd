@@ -26,6 +26,7 @@ editor_options:
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Question_1-Reference_3.pdf)  
 ```
 Note:
+- Definitely maybe.
 ```
 
 #### [Question-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/GGSB_Prelim_Question_2.pdf)
@@ -36,6 +37,7 @@ Note:
 
 ```
 Note:
+- Definitely maybe.
 ```
 
 #### [Question-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/GGSB_Prelim_Question_3.pdf)
@@ -62,6 +64,7 @@ Note:
 
 ```
 Note:
+- Less likely maybe.
 ``` 
 
 #### [Question-6](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/GGSB_Prelim_Question_6.pdf)
@@ -76,6 +79,7 @@ Note:
 
 ```
 Note:
+- Not very interested in evolution topics, likely not to choose.
 ```
 
 #### [Question-7](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/GGSB_Prelim_Question_7.pdf)
@@ -85,6 +89,11 @@ Note:
                 [Ref-4](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_4.pdf), 
                 [Ref-5](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_5.pdf)  
                 
+```
+Note:
+- Less likely maybe.
+```
+
 ```
 Note:
 - There is no Question-8.
@@ -102,13 +111,15 @@ Note:
 
 ```
 Note:
-``` 
+- Less likely maybe.
+```
 
 #### [Question-10](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/GGSB_Prelim_Question_10.pdf)
 - **Q10 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/Question_10-Reference_1.pdf)  
 
 ```
 Note:
+- Not very interested in predicting algorithm development, likely not to choose.
 ```
 
 ### Misc.
