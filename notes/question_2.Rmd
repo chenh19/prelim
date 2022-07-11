@@ -23,10 +23,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 As a concept, **gene therapy** has been around for decades. But it has only recently emerged as an effective therapeutic modality with a number of drugs getting approved in the last few years. With gene therapy finally moving beyond the proof-of-concept stage, the field is poised to flourish, with many previously incurable diseases now expected to have complete cures in the coming years.  
 
-Please describe the **major classes of diseases targeted by gene therapy** either as approved treatments or at the research stage. Please **explain why** these diseases are particularly conducive to gene therapy. Conversely, please describe what types of diseases are not conducive to gene therapy at present and why.  
+1. Please describe the **major classes of diseases targeted by gene therapy** either as approved treatments or at the research stage. Please **explain why** these diseases are particularly conducive to gene therapy. Conversely, please describe what types of diseases are not conducive to gene therapy at present and why.  
 
-What are the **major limitations and challenges** in the effective use of gene therapy?  
+2. What are the **major limitations and challenges** in the effective use of gene therapy?  
 
-**Lentivirus (LV)** and **adeno-associated virus (AAV)** are currently the most popular gene therapy vectors. Please describe the **pros** and **cons** of LV and AAV, and what types of diseases they are each suitable for.  
+3. **Lentivirus (LV)** and **adeno-associated virus (AAV)** are currently the most popular gene therapy vectors. Please describe the **pros** and **cons** of LV and AAV, and what types of diseases they are each suitable for.  
 
 
