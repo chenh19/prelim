@@ -17,18 +17,20 @@ editor_options:
 
 [**Question-1: **](https://chenh19.github.io/prelim/question_1.html)  
 
-
 - [ ] read Q-1 refs
+
 
 [**Question-2: **](https://chenh19.github.io/prelim/question_2.html)  
 
-
 - [ ] read Q-2 refs
+
 
 [**Question-5: **](https://chenh19.github.io/prelim/question_5.html)  
 
 - [ ] read Q-5 refs
 
+
 [**Logistics: **](https://chenh19.github.io/prelim/misc.html)
 
 - [x] pick three questions: **Question-1/2/5**
+- [ ] contact senior PhD student for practicing

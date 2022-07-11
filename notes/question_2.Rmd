@@ -12,8 +12,9 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## [Question-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/GGSB_Prelim_Question_2.pdf) (by [Bruce Lahn](https://profiles.uchicago.edu/profiles/display/38462))
+## Materials
 
+- [**Question-2**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/GGSB_Prelim_Question_2.pdf) (by [Bruce Lahn](https://profiles.uchicago.edu/profiles/display/38462))
 - **Q2 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/Question_2-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/Question_2-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/Question_2-Reference_3.pdf)  
