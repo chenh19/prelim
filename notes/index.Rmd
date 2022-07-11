@@ -18,17 +18,17 @@ editor_options:
 - [x] pick three questions: **Question-1/2/5**
 
 
-[**Question-1: **](https://chenh19.github.io/prelim/GGSB_questions_2022/question_1.html)  
+- [**Question-1: **](https://chenh19.github.io/prelim/GGSB_questions_2022/question_1.html)  
 
 
 - [ ] read Q-1 refs
 
-[**Question-2: **](https://chenh19.github.io/prelim/GGSB_questions_2022/question_2.html)  
+- [**Question-2: **](https://chenh19.github.io/prelim/GGSB_questions_2022/question_2.html)  
 
 
 - [ ] read Q-2 refs
 
-[**Question-5: **](https://chenh19.github.io/prelim/GGSB_questions_2022/question_5.html)  
+- [**Question-5: **](https://chenh19.github.io/prelim/GGSB_questions_2022/question_5.html)  
 
 - [ ] read Q-5 refs
 
