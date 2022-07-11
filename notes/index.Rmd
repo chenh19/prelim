@@ -29,6 +29,3 @@ editor_options:
 - [**Prelim instructions**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)  
 - [**Prelim information**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)  
 
-```
-Note:
-```
