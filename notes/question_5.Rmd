@@ -12,14 +12,14 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Materials
+## Materials
 
 - [**Question-5**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/GGSB_Prelim_Question_5.pdf)
 - **Q5 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_2.pdf)  
 
 
-### Questions
+## Questions
 
 **GWAS** have successfully identified a large number of variants associated with a range of complex diseases. In most cases, however, the causal variants and their target genes remain unknown. A common strategy is to **leverage expression QTL (eQTL)** data to help narrow down causal variants and genes.  
 
@@ -38,19 +38,19 @@ f) The key parameter of Enloc is called α1. Define the parameter, and explain w
 g) Explain how Enloc is related to coloc, and why it may provide some advantages.  
 
 
-### Answers
+## Answers
 
-#### a)
+### a)
 
-#### b)
+### b)
 
-#### c)
+### c)
 
-#### d)
+### d)
 
-#### e)
+### e)
 
-#### f)
+### f)
 
-#### g)
+### g)
 
