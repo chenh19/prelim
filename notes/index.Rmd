@@ -27,10 +27,10 @@ editor_options:
 
 ```{bash,eval=FALSE}
 Note:
-- Definitely maybe.
+- Selected.
 ```
 
-#### [Question-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/GGSB_Prelim_Question_2.pdf)
+#### [Question-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/GGSB_Prelim_Question_2.pdf) by [Bruce Lahn](https://profiles.uchicago.edu/profiles/display/38462)
 
 - **Q2 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/Question_2-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_2/Question_2-Reference_2.pdf), 
@@ -38,7 +38,7 @@ Note:
 
 ```{bash,eval=FALSE}
 Note:
-- Definitely maybe.
+- Selected.
 ```
 
 #### [Question-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/GGSB_Prelim_Question_3.pdf)
@@ -65,7 +65,7 @@ Note:
 
 ```{bash,eval=FALSE}
 Note:
-- A less likely maybe.
+- Selected.
 ``` 
 
 #### [Question-6](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/GGSB_Prelim_Question_6.pdf)
@@ -90,9 +90,9 @@ Note:
                 [Ref-4](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_4.pdf), 
                 [Ref-5](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_5.pdf)  
                 
-```{bash,eval=FALSE}
+```
 Note:
-- A less likely maybe.
+- Not interested in Drosophila, likely not to choose.
 ```
 
 ```
