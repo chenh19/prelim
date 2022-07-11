@@ -68,5 +68,5 @@ git push -u origin main
 
 ## 4. Other questions
 
-[**Questions not selected**](https://chenh19.github.io/prelim/GGSB_questions_2022/questions_not_selected.html)
+- [Questions not selected](https://chenh19.github.io/prelim/GGSB_questions_2022/questions_not_selected.html)
 
