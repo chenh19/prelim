@@ -12,7 +12,7 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## 1. Routine
+### 1. Routine
 
 **Load:**
 
@@ -58,18 +58,18 @@ git push -u origin main
 **Git SSH configuration:** [```git_ssh_config.sh```](https://raw.githubusercontent.com/chenh19/rotation2/main/code/0_prepare/git_ssh_config.sh) (Ref: [YouTube](https://youtu.be/YnSMYgIybFU))  
 
 
-## 2. Instructions
+### 2. Instructions
 
 - [Prelim instructions](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)  
 - [Prelim information](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)  
 
 
-## 3. Other questions
+### 3. Other questions
 
 - [Questions not selected](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/questions_not_selected.html)
 
 
-## 4. Schedule
+### 4. Schedule
 
 - Prelim exam time: week of ```9/12/2022```
 - Can move up
