@@ -32,5 +32,5 @@ editor_options:
 
 [**Logistics: **](https://chenh19.github.io/prelim/misc.html)
 
-- [x] pick three questions: **Question-1/2/5**
+- [x] pick three questions and email Sue: **Question-1/2/5**
 - [ ] contact senior PhD student for practicing

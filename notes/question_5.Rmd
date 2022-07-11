@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - **Q5 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_2.pdf)  
 
+
 ### Questions
 
 **GWAS** have successfully identified a large number of variants associated with a range of complex diseases. In most cases, however, the causal variants and their target genes remain unknown. A common strategy is to **leverage expression QTL (eQTL)** data to help narrow down causal variants and genes.  
@@ -35,3 +36,21 @@ e) A naive approach to colocalization is: perform fine-mapping of both traits se
 f) The key parameter of Enloc is called α1. Define the parameter, and explain why it is important in your own language.  
 
 g) Explain how Enloc is related to coloc, and why it may provide some advantages.  
+
+
+### Answers
+
+#### a)
+
+#### b)
+
+#### c)
+
+#### d)
+
+#### e)
+
+#### f)
+
+#### g)
+
