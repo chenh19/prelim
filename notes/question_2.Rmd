@@ -29,7 +29,7 @@ As a concept, **gene therapy** has been around for decades. But it has only rece
 
 2. What are the **major limitations and challenges** in the effective use of gene therapy?  
 
-3. **Lentivirus** (**LV**) and **adeno-associated virus** (**AAV**) are currently the most popular gene therapy vectors. Please describe the **pros** and **cons** of LV and AAV, and what types of diseases they are each suitable for.  
+3. **Lentivirus** (**LV**) and **adeno-associated virus** (**AAV**) are currently the most popular gene therapy vectors. Please describe the **pros** and **cons** of LV and AAV, and what **types of diseases** they are each suitable for.  
 
 
 ### Answers
