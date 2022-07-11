@@ -51,7 +51,7 @@ g) Explain how Enloc is related to coloc, and why it may provide some **advantag
 
 #### e)
 
-**Note:** refer to Lecture 6, HGEN 47100
+**Note:** refer to [Lecture 6, HGEN 47100](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/meta_analysis_fine_mapping.pdf)
 
 #### f)
 
