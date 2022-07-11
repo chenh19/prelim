@@ -15,10 +15,10 @@ editor_options:
 
 ## GTD
 
-- [x] pick three questions (Q-1/2/5)
-- [ ] read Q-1 refs
-- [ ] read Q-2 refs
-- [ ] read Q-5 refs
+- [x] pick three questions: **Q-1/2/5**
+- [ ] [read Q-1 refs](https://chenh19.github.io/prelim/GGSB_questions_2022/question_1.html)
+- [ ] [read Q-2 refs](https://chenh19.github.io/prelim/GGSB_questions_2022/question_2.html)
+- [ ] [read Q-5 refs](https://chenh19.github.io/prelim/GGSB_questions_2022/question_5.html)
 
 ### Misc.
 
