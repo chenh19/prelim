@@ -535,15 +535,15 @@ project makes it easier to run your code on other machines.</p>
 <div class="panel panel-default">
 <div class="panel-heading">
 <p class="panel-title">
-<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtreea2e28d3be58b052e4068ef7b55a620611090afactargetblanka2e28d3a">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtreedbe2464e37a5fbd9b0d00ba8aa893bd9d0b83d1etargetblankdbe2464a">
 <span class="glyphicon glyphicon-ok text-success"
 aria-hidden="true"></span> <strong>Repository version:</strong>
-<a href="https://github.com/chenh19/prelim/tree/a2e28d3be58b052e4068ef7b55a620611090afac" target="_blank">a2e28d3</a>
+<a href="https://github.com/chenh19/prelim/tree/dbe2464e37a5fbd9b0d00ba8aa893bd9d0b83d1e" target="_blank">dbe2464</a>
 </a>
 </p>
 </div>
 <div
-id="strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtreea2e28d3be58b052e4068ef7b55a620611090afactargetblanka2e28d3a"
+id="strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtreedbe2464e37a5fbd9b0d00ba8aa893bd9d0b83d1etargetblankdbe2464a"
 class="panel-collapse collapse">
 <div class="panel-body">
 <p>
@@ -553,7 +553,7 @@ reproducibility.
 </p>
 <p>
 The results in this page were generated with repository version
-<a href="https://github.com/chenh19/prelim/tree/a2e28d3be58b052e4068ef7b55a620611090afac" target="_blank">a2e28d3</a>.
+<a href="https://github.com/chenh19/prelim/tree/dbe2464e37a5fbd9b0d00ba8aa893bd9d0b83d1e" target="_blank">dbe2464</a>.
 See the <em>Past versions</em> tab to see a history of the changes made
 to the R Markdown and HTML files.
 </p>
@@ -617,6 +617,40 @@ Message
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+Rmd
+</td>
+<td>
+<a href="https://github.com/chenh19/prelim/blob/dbe2464e37a5fbd9b0d00ba8aa893bd9d0b83d1e/notes/question_5.Rmd" target="_blank">dbe2464</a>
+</td>
+<td>
+chenh19
+</td>
+<td>
+2022-07-11
+</td>
+<td>
+wflow_publish("./notes/*.Rmd")
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+<a href="https://rawcdn.githack.com/chenh19/prelim/07c9680d3e19851308ef0f7826a58a9e22447f65/docs/question_5.html" target="_blank">07c9680</a>
+</td>
+<td>
+chenh19
+</td>
+<td>
+2022-07-11
+</td>
+<td>
+Build site.
+</td>
+</tr>
 <tr>
 <td>
 Rmd
@@ -1424,12 +1458,15 @@ variants associated with a range of complex diseases. In most cases,
 however, the causal variants and their target genes remain unknown. A
 common strategy is to <strong>leverage expression QTL (eQTL)</strong>
 data to help narrow down causal variants and genes.</p>
-<ol style="list-style-type: lower-alpha">
-<li><p>Suppose a GWAS variant associated with the disease trait of
-interest is also associated with the expression of a gene X in some
-tissue. Can we <strong>conclude</strong> that X is a causal gene of the
-disease?</p></li>
-<li><p>A strategy to better integrate eQTL and GWAS data is
+<div id="a" class="section level3">
+<h3>a)</h3>
+<p>Suppose a GWAS variant associated with the disease trait of interest
+is also associated with the expression of a gene X in some tissue. Can
+we <strong>conclude</strong> that X is a causal gene of the disease?</p>
+</div>
+<div id="b" class="section level3">
+<h3>b)</h3>
+<p>A strategy to better integrate eQTL and GWAS data is
 <strong>colocalization analysis</strong>. Read the paper presenting the
 method <strong>coloc</strong> (<a
 href="https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_1.pdf">ref-1</a>).
@@ -1440,50 +1477,64 @@ probability a SNP is associated with trait 1, p1, with trait 2, p2, and
 with both traits p12. Let S be a configuration: it is a pair of binary
 vector of whether a SNP is causal to trait 1 and trait 2 (see Figure 1
 for example). What is the prior probability of S when S belongs to each
-of the five hypothesis?</p></li>
-<li><p>The evidence of SNP association of a trait can be expressed as
-<strong>Bayes factor (BF)</strong>, which compares two models, the SNP
-is associated with the trait vs. not associated. Suppose we know BF of
-each SNP in the region with respect to the two traits. Derive the
-posterior probability of colocalization in terms of the BFs of
-SNPs.</p></li>
-<li><p>It was found that results of coloc are sensitive to prior
-parameters. A program <strong>Enloc</strong> (<a
-href="https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_2.pdf">ref-2</a>)
-is designed to address this problem. Explain its main ideas.</p></li>
-<li><p>A naive approach to colocalization is: perform fine-mapping of
-both traits separately, and this allows one to assess how often a SNP is
-a causal variant to both traits. It would be the product of
-<strong>Posterior Inclusion Probabilities (PIPs)</strong> of the SNP
-with respect to the two traits. Explain the shortcoming of this
-approach, in light of Enloc.</p></li>
-<li><p>The key parameter of Enloc is called α1. Define the parameter,
-and explain why it is important in your own language.</p></li>
-<li><p>Explain how Enloc is related to coloc, and why it may provide
-some advantages.</p></li>
-</ol>
-</div>
-<div id="answers" class="section level2">
-<h2>Answers</h2>
-<div id="a" class="section level3">
-<h3>a)</h3>
-</div>
-<div id="b" class="section level3">
-<h3>b)</h3>
+of the five hypothesis?</p>
 </div>
 <div id="c" class="section level3">
 <h3>c)</h3>
+<p>The evidence of SNP association of a trait can be expressed as
+<strong>Bayes factor (BF)</strong>, which compares two models, the SNP
+is associated with the trait vs. not associated. Suppose we know BF of
+each SNP in the region with respect to the two traits. Derive the
+posterior probability of colocalization in terms of the BFs of SNPs.</p>
 </div>
 <div id="d" class="section level3">
 <h3>d)</h3>
+<p>It was found that results of coloc are sensitive to prior parameters.
+A program <strong>Enloc</strong> (<a
+href="https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_5/Question_5-Reference_2.pdf">ref-2</a>)
+is designed to address this problem. Explain its main ideas.</p>
 </div>
 <div id="e" class="section level3">
 <h3>e)</h3>
+<p>A naive approach to colocalization is: perform fine-mapping of both
+traits separately, and this allows one to assess how often a SNP is a
+causal variant to both traits. It would be the product of
+<strong>Posterior Inclusion Probabilities (PIPs)</strong> of the SNP
+with respect to the two traits. Explain the shortcoming of this
+approach, in light of Enloc.</p>
 </div>
 <div id="f" class="section level3">
 <h3>f)</h3>
+<p>The key parameter of Enloc is called α1. Define the parameter, and
+explain why it is important in your own language.</p>
 </div>
 <div id="g" class="section level3">
+<h3>g)</h3>
+<p>Explain how Enloc is related to coloc, and why it may provide some
+advantages.</p>
+</div>
+</div>
+<div id="answers" class="section level2">
+<h2>Answers</h2>
+<div id="a-1" class="section level3">
+<h3>a)</h3>
+</div>
+<div id="b-1" class="section level3">
+<h3>b)</h3>
+</div>
+<div id="c-1" class="section level3">
+<h3>c)</h3>
+</div>
+<div id="d-1" class="section level3">
+<h3>d)</h3>
+</div>
+<div id="e-1" class="section level3">
+<h3>e)</h3>
+</div>
+<div id="f-1" class="section level3">
+<h3>f)</h3>
+</div>
+<div id="g-1" class="section level3">
 <h3>g)</h3>
 <br>
 <p>
