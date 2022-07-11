@@ -86,7 +86,7 @@ There is no Question-8.
 
 ```
 Note:
-- Simply too many papers.
+- Simply too many papers, not choosing.
 ```
 
 ## Question-10
@@ -96,5 +96,5 @@ Note:
 
 ```
 Note:
-- Not very interested in predicting algorithm development, likely not to choose.
+- Not very interested in predictive algorithm developing, likely not to choose.
 ```
