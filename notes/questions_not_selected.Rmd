@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Question-3
 
-- [Question-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/GGSB_Prelim_Question_3.pdf)
+- [**Question-3**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/GGSB_Prelim_Question_3.pdf)
 - **Q3 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/Question_3-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/Question_3-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_3/Question_3-Reference_3.pdf)  
@@ -26,7 +26,7 @@ Note:
 
 ## Question-4
 
-- [Question-4](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_4/GGSB_Prelim_Question_4.pdf)
+- [**Question-4**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_4/GGSB_Prelim_Question_4.pdf)
 - **Q4 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_4/Question_4-Reference_1.pdf)  
 
 ```
@@ -36,7 +36,7 @@ Note:
 
 ## Question-6
 
-- [Question-6](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/GGSB_Prelim_Question_6.pdf)
+- [**Question-6**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/GGSB_Prelim_Question_6.pdf)
 - **Q6 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/Question_6-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/Question_6-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_6/Question_6-Reference_3.pdf), 
@@ -53,7 +53,7 @@ Note:
 
 ## Question-7
 
-- [Question-7](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/GGSB_Prelim_Question_7.pdf)
+- [**Question-7**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/GGSB_Prelim_Question_7.pdf)
 - **Q7 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_7/Question_7-Reference_3.pdf), 
@@ -74,7 +74,7 @@ There is no Question-8.
 
 ## Question-9
 
-- [Question-9](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/GGSB_Prelim_Question_9.pdf)
+- [**Question-9**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/GGSB_Prelim_Question_9.pdf)
 - **Q9 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_3.pdf), 
@@ -91,7 +91,7 @@ Note:
 
 ## Question-10
 
-- [Question-10](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/GGSB_Prelim_Question_10.pdf)
+- [**Question-10**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/GGSB_Prelim_Question_10.pdf)
 - **Q10 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/Question_10-Reference_1.pdf)  
 
 ```
