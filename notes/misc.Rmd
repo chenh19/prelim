@@ -66,3 +66,5 @@ git push -u origin main
 
 - Prelim exam time: week of ```9/12/2022```
 
+## 4. [Questions not selected](https://chenh19.github.io/prelim/GGSB_questions_2022/questions_not_selected.html)
+

@@ -16,13 +16,9 @@ editor_options:
 ## GTD
 
 - [x] pick three questions (Q-1/2/5)
-
-### Questions: 
-
-
-
-
-
+- [ ] read Q-1 refs
+- [ ] read Q-2 refs
+- [ ] read Q-5 refs
 
 ### Misc.
 
