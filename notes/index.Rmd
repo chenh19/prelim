@@ -30,7 +30,7 @@ editor_options:
 - [ ] read through Q-5 refs
 
 
-[**Logistics: **](https://chenh19.github.io/prelim/misc.html)
+[**Miscellaneous: **](https://chenh19.github.io/prelim/misc.html)
 
 - [x] pick three questions and email Sue: **Question-1/2/5**
 - [ ] contact senior PhD student for practicing
