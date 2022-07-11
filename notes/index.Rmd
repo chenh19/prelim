@@ -109,7 +109,7 @@ There is no Question-8.
                 [Ref-7](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_7.pdf), 
                 [Ref-8](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_9/Question_9-Reference_8.pdf)  
 
-```{bash,eval=FALSE}
+```
 Note:
 - Simply too many papers.
 ```
