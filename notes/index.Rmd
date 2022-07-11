@@ -111,7 +111,7 @@ There is no Question-8.
 
 ```{bash,eval=FALSE}
 Note:
-- A less likely maybe.
+- Simply too many papers.
 ```
 
 #### [Question-10](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_10/GGSB_Prelim_Question_10.pdf)
