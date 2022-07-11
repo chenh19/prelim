@@ -19,9 +19,3 @@ editor_options:
 - [ ] [read Q-1 refs](https://chenh19.github.io/prelim/GGSB_questions_2022/question_1.html)
 - [ ] [read Q-2 refs](https://chenh19.github.io/prelim/GGSB_questions_2022/question_2.html)
 - [ ] [read Q-5 refs](https://chenh19.github.io/prelim/GGSB_questions_2022/question_5.html)
-
-### Misc.
-
-- [**Prelim instructions**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)  
-- [**Prelim information**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)  
-
