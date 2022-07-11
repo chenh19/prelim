@@ -12,14 +12,14 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Materials
+### Materials
 
 - [**Question-1**](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/GGSB_Prelim_Question_1.pdf)
 - **Q1 refs: ** [Ref-1](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Question_1-Reference_1.pdf), 
                 [Ref-2](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Question_1-Reference_2.pdf), 
                 [Ref-3](https://chenh19.github.io/prelim/GGSB_questions_2022/GGSB_Question_1/Question_1-Reference_3.pdf)  
 
-## Questions
+### Questions
 
 Phenotypic differences between gene knockouts (*e.g.*, via mutations) and gene knockdowns (*e.g.*, via RNAi or morpholinos) are often attributed to off-target effects of the RNA-interference reagents. However, genetic compensation (*e.g.*, via transcriptional adaptation) offers an alternative explanation.
 
