@@ -24,9 +24,10 @@ knitr::opts_chunk$set(echo = TRUE)
 Phenotypic differences between **gene knockouts** (*e.g.*, via mutations) and **gene knockdowns** (*e.g.*, via RNAi or morpholinos) are often attributed to off-target effects of the RNA-interference reagents. However, genetic compensation (*e.g.*, via transcriptional adaptation) offers an alternative explanation.  
 
 1. Explain the concept of **transcriptional adaptation**.
-2. How can the phenomenon of transcriptional adaptation be **distinguished from** off-target
-RNAi or morpholino effects?
-3. Propose **alternative models** by which transcriptional adaptation can be achieved. How
-would you distinguish between them?
+
+2. How can the phenomenon of transcriptional adaptation be **distinguished from** off-target RNAi or morpholino effects?
+
+3. Propose **alternative models** by which transcriptional adaptation can be achieved. How would you distinguish between them?
+
 4. Propose an experiment to further test your model.
 
