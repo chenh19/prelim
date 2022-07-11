@@ -15,9 +15,6 @@ editor_options:
 
 ### GTD
 
-- [x] pick three questions: **Question-1/2/5**
-
-
 [**Question-1: **](https://chenh19.github.io/prelim/GGSB_questions_2022/question_1.html)  
 
 
@@ -32,3 +29,6 @@ editor_options:
 
 - [ ] read Q-5 refs
 
+[**Logistics: **](https://chenh19.github.io/prelim/GGSB_questions_2022/misc.html)
+
+- [x] pick three questions: **Question-1/2/5**

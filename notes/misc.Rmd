@@ -72,4 +72,4 @@ git push -u origin main
 ## 4. Schedule
 
 - Prelim exam time: week of ```9/12/2022```
-- Can move up.
+- Can move up
