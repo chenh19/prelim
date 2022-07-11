@@ -34,9 +34,9 @@ d) It was found that results of coloc are sensitive to prior parameters. A progr
 
 e) A naive approach to colocalization is: perform fine-mapping of both traits separately, and this allows one to assess how often a SNP is a causal variant to both traits. It would be the product of **Posterior Inclusion Probabilities (PIPs)** of the SNP with respect to the two traits. Explain the shortcoming of this approach, in light of Enloc.  
 
-f) The key parameter of Enloc is called $\alpha_1$. Define the parameter, and explain why it is important in your own language.  
+f) The **key parameter** of Enloc is called $\alpha_1$. Define the parameter, and explain why it is important in your own language.  
 
-g) Explain how Enloc is related to coloc, and why it may provide some advantages.  
+g) Explain how Enloc is related to coloc, and why it may provide some **advantages**.  
 
 
 ### Answers
