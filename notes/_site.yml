@@ -11,8 +11,8 @@ navbar:
       href: question_1.html
     - text: Question-2
       href: question_2.html
-    - text: Question-3
-      href: question_3.html
+    - text: Question-5
+      href: question_5.html
   - text: Misc.
     href: misc.html
   right:
