@@ -55,13 +55,13 @@ git push -u origin main
 ```
 
 **Environment: [Kubuntu 22.04 LTS](https://kubuntu.org/); [Setup Shell Scripts](https://github.com/chenh19/MyWorkspace)**  
-**[```git_ssh_config.sh```](https://raw.githubusercontent.com/chenh19/rotation2/main/code/0_prepare/git_ssh_config.sh) (Ref: [YouTube](https://youtu.be/YnSMYgIybFU))**  
+**Git SSH configuration: [```git_ssh_config.sh```](https://raw.githubusercontent.com/chenh19/rotation2/main/code/0_prepare/git_ssh_config.sh)** (Ref: [YouTube](https://youtu.be/YnSMYgIybFU))  
 
 
 ## 2. Instructions
 
-- [**Prelim instructions**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)  
-- [**Prelim information**](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)  
+- [Prelim instructions](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/GGSB_Prelim_Exam_Instructions.pdf)  
+- [Prelim information](https://chenh19.github.io/prelim/GGSB_questions_2022/MISC/PrelimExam_Information_from_GGSB_Handbook.pdf)  
 
 
 ## 3. Other questions
