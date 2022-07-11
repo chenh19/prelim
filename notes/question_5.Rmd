@@ -51,6 +51,8 @@ g) Explain how Enloc is related to coloc, and why it may provide some **advantag
 
 #### e)
 
+**Note:** refer to Lecture 6, HGEN 47100
+
 #### f)
 
 #### g)
