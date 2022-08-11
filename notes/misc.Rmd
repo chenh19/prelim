@@ -43,11 +43,11 @@ rm(list = ls())
 #mkdir ./Developing/prelim/
 #cd ./Developing/prelim/ 
 #git init
+#git remote add origin git@github.com:chenh19/prelim.git
 #git pull git@github.com:chenh19/prelim.git
 
 # git push
 #cd ./Developing/prelim/
-#git remote add origin git@github.com:chenh19/prelim.git
 git commit -a -m "update"
 git add --all
 git commit -a -m "update"
