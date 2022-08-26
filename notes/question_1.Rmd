@@ -38,7 +38,13 @@ Phenotypic differences between **gene knockouts** (*e.g.*, via mutations) and **
 
 #### 2)
 
+double check: egfl7MO injections
+
 #### 3)
 
 #### 4)
+
+#### Off topic
+
+activity divided by quantity (qPCR): relative activity
 
