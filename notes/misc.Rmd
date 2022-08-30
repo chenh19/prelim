@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r,eval=FALSE}
 # load
-setwd("./Developing/prelim/")
+#setwd("~/Developing/prelim/")
 library(workflowr)
 ```
 
