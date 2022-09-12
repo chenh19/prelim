@@ -41,5 +41,5 @@ g) Explain how Enloc is related to coloc, and why it may provide some **advantag
 
 ### Slides
 
-- [**Q3_HC.pptx](https://chenh19.github.io/prelim/slides/Q3/Q3_HC.pptx)
-- [**Q3_HC.pdf](https://chenh19.github.io/prelim/slides/Q3/Q3_HC.pdf)
+- [**Q5_HC.pptx**](https://chenh19.github.io/prelim/slides/Q5/Q5_HC.pptx)
+- [**Q5_HC.pdf**](https://chenh19.github.io/prelim/slides/Q5/Q5_HC.pdf)
