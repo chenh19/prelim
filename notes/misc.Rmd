@@ -71,4 +71,4 @@ git push -u origin main
 
 ### 4. Schedule
 
-- Prelim exam time: ```9/12/2022```
+- Prelim exam time: ```9/12/2022 1-3pm```
