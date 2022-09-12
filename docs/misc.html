@@ -387,7 +387,7 @@ div.tocify {
 <p>
 <button type="button" class="btn btn-default btn-workflowr btn-workflowr-report" data-toggle="collapse" data-target="#workflowr-report">
 <span class="glyphicon glyphicon-list" aria-hidden="true"></span>
-workflowr <span class="glyphicon glyphicon-exclamation-sign text-danger"
+workflowr <span class="glyphicon glyphicon-ok text-success"
 aria-hidden="true"></span>
 </button>
 </p>
@@ -398,8 +398,8 @@ aria-hidden="true"></span>
 </li>
 <li>
 <a data-toggle="tab" href="#checks"> Checks <span
-class="glyphicon glyphicon-exclamation-sign text-danger"
-aria-hidden="true"></span> </a>
+class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span>
+</a>
 </li>
 <li>
 <a data-toggle="tab" href="#versions">Past versions</a>
@@ -408,13 +408,13 @@ aria-hidden="true"></span> </a>
 <div class="tab-content">
 <div id="summary" class="tab-pane fade in active">
 <p>
-<strong>Last updated:</strong> 2022-08-30
+<strong>Last updated:</strong> 2022-09-12
 </p>
 <p>
 <strong>Checks:</strong> <span
-class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> 6
+class="glyphicon glyphicon-ok text-success" aria-hidden="true"></span> 7
 <span class="glyphicon glyphicon-exclamation-sign text-danger"
-aria-hidden="true"></span> 1
+aria-hidden="true"></span> 0
 </p>
 <p>
 <strong>Knit directory:</strong> <code>prelim/</code> <span
@@ -524,56 +524,30 @@ run.</p>
 <div class="panel panel-default">
 <div class="panel-heading">
 <p class="panel-title">
-<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongFilepathsstrongabsolute">
-<span class="glyphicon glyphicon-exclamation-sign text-danger"
-aria-hidden="true"></span> <strong>File paths:</strong> absolute </a>
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongFilepathsstrongrelative">
+<span class="glyphicon glyphicon-ok text-success"
+aria-hidden="true"></span> <strong>File paths:</strong> relative </a>
 </p>
 </div>
-<div id="strongFilepathsstrongabsolute" class="panel-collapse collapse">
+<div id="strongFilepathsstrongrelative" class="panel-collapse collapse">
 <div class="panel-body">
-<p>
-Using absolute paths to the files within your workflowr project makes it
-difficult for you and others to run your code on a different machine.
-Change the absolute path(s) below to the suggested relative path(s) to
-make your code more reproducible.
-</p>
-<table class="table table-condensed table-hover">
-<thead>
-<tr>
-<th style="text-align:left;">
-absolute
-</th>
-<th style="text-align:left;">
-relative
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-~/Developing/prelim/
-</td>
-<td style="text-align:left;">
-.
-</td>
-</tr>
-</tbody>
-</table>
+<p>Great job! Using relative paths to the files within your workflowr
+project makes it easier to run your code on other machines.</p>
 </div>
 </div>
 </div>
 <div class="panel panel-default">
 <div class="panel-heading">
 <p class="panel-title">
-<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtree00a76153f6285a00605b72b37a9437b2ba55355etargetblank00a7615a">
+<a data-toggle="collapse" data-parent="#workflowr-checks" href="#strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtree462ddb8edf26c2aca3ea912924d77344a5ec57eftargetblank462ddb8a">
 <span class="glyphicon glyphicon-ok text-success"
 aria-hidden="true"></span> <strong>Repository version:</strong>
-<a href="https://github.com/chenh19/prelim/tree/00a76153f6285a00605b72b37a9437b2ba55355e" target="_blank">00a7615</a>
+<a href="https://github.com/chenh19/prelim/tree/462ddb8edf26c2aca3ea912924d77344a5ec57ef" target="_blank">462ddb8</a>
 </a>
 </p>
 </div>
 <div
-id="strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtree00a76153f6285a00605b72b37a9437b2ba55355etargetblank00a7615a"
+id="strongRepositoryversionstrongahrefhttpsgithubcomchenh19prelimtree462ddb8edf26c2aca3ea912924d77344a5ec57eftargetblank462ddb8a"
 class="panel-collapse collapse">
 <div class="panel-body">
 <p>
@@ -583,7 +557,7 @@ reproducibility.
 </p>
 <p>
 The results in this page were generated with repository version
-<a href="https://github.com/chenh19/prelim/tree/00a76153f6285a00605b72b37a9437b2ba55355e" target="_blank">00a7615</a>.
+<a href="https://github.com/chenh19/prelim/tree/462ddb8edf26c2aca3ea912924d77344a5ec57ef" target="_blank">462ddb8</a>.
 See the <em>Past versions</em> tab to see a history of the changes made
 to the R Markdown and HTML files.
 </p>
@@ -599,6 +573,7 @@ were generated:
 <pre><code>
 Ignored files:
     Ignored:    .Rproj.user/
+    Ignored:    notes/.Rhistory
 
 Unstaged changes:
     Modified:   .Rhistory
@@ -646,6 +621,40 @@ Message
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+Rmd
+</td>
+<td>
+<a href="https://github.com/chenh19/prelim/blob/462ddb8edf26c2aca3ea912924d77344a5ec57ef/notes/misc.Rmd" target="_blank">462ddb8</a>
+</td>
+<td>
+Hang Chen
+</td>
+<td>
+2022-09-12
+</td>
+<td>
+wflow_publish("./notes/*.Rmd")
+</td>
+</tr>
+<tr>
+<td>
+html
+</td>
+<td>
+<a href="https://rawcdn.githack.com/chenh19/prelim/044c6647f4f647c0ac85f75ba9740abe56a767d5/docs/misc.html" target="_blank">044c664</a>
+</td>
+<td>
+Hang Chen
+</td>
+<td>
+2022-08-30
+</td>
+<td>
+Build site.
+</td>
+</tr>
 <tr>
 <td>
 Rmd
@@ -3105,7 +3114,7 @@ Build site.
 <h3>1. Routine</h3>
 <p><strong>Load:</strong></p>
 <pre class="r"><code># load
-#setwd(&quot;~/Developing/prelim/&quot;)
+#setwd(&quot;./Developing/prelim/&quot;)
 library(workflowr)</code></pre>
 <p><strong>WorkflowR publish:</strong></p>
 <pre class="r"><code># workflowR publish
@@ -3157,7 +3166,7 @@ not selected</a></li>
 <div id="schedule" class="section level3">
 <h3>4. Schedule</h3>
 <ul>
-<li>Prelim exam time: week of <code>9/12/2022</code> (can move up)</li>
+<li>Prelim exam time: <code>9/12/2022</code></li>
 </ul>
 <br>
 <p>
@@ -3188,16 +3197,14 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 loaded via a namespace (and not attached):
- [1] Rcpp_1.0.9       rstudioapi_0.14  whisker_0.4      knitr_1.40      
- [5] magrittr_2.0.3   workflowr_1.7.0  R6_2.5.1         rlang_1.0.4     
- [9] fastmap_1.1.0    fansi_1.0.3      highr_0.9        stringr_1.4.1   
-[13] tools_4.2.1      xfun_0.32        utf8_1.2.2       cli_3.3.0       
-[17] git2r_0.30.1     jquerylib_0.1.4  htmltools_0.5.3  rprojroot_2.0.3 
-[21] yaml_2.3.5       digest_0.6.29    tibble_3.1.8     lifecycle_1.0.1 
-[25] later_1.3.0      sass_0.4.2       vctrs_0.4.1      fs_1.5.2        
-[29] promises_1.2.0.1 cachem_1.0.6     glue_1.6.2       evaluate_0.16   
-[33] rmarkdown_2.16   stringi_1.7.8    bslib_0.4.0      compiler_4.2.1  
-[37] pillar_1.8.1     jsonlite_1.8.0   httpuv_1.6.5     pkgconfig_2.0.3 </code></pre>
+ [1] Rcpp_1.0.9       bslib_0.4.0      compiler_4.2.1   later_1.3.0     
+ [5] jquerylib_0.1.4  git2r_0.30.1     workflowr_1.7.0  tools_4.2.1     
+ [9] digest_0.6.29    jsonlite_1.8.0   evaluate_0.16    rlang_1.0.2     
+[13] cli_3.4.0        rstudioapi_0.14  yaml_2.3.5       xfun_0.32       
+[17] fastmap_1.1.0    stringr_1.4.1    knitr_1.40       fs_1.5.2        
+[21] sass_0.4.2       rprojroot_2.0.3  glue_1.6.2       R6_2.5.1        
+[25] rmarkdown_2.16   whisker_0.4      magrittr_2.0.3   promises_1.2.0.1
+[29] htmltools_0.5.3  httpuv_1.6.6     stringi_1.7.8    cachem_1.0.6    </code></pre>
 </div>
 </div>
 
