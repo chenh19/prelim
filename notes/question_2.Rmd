@@ -32,12 +32,4 @@ As a concept, **gene therapy** has been around for decades. But it has only rece
 3. **Lentivirus** (**LV**) and **adeno-associated virus** (**AAV**) are currently the most popular gene therapy vectors. Please describe the **pros** and **cons** of LV and AAV, and what **types of diseases** they are each suitable for.  
 
 
-### Answers
-
-#### 1)
-
-#### 2)
-
-#### 3)
-
-
+### Slides

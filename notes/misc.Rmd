@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r,eval=FALSE}
 # load
-#setwd("~/Developing/prelim/")
+#setwd("./Developing/prelim/")
 library(workflowr)
 ```
 
@@ -71,4 +71,4 @@ git push -u origin main
 
 ### 4. Schedule
 
-- Prelim exam time: week of ```9/12/2022``` (can move up)
+- Prelim exam time: ```9/12/2022```
