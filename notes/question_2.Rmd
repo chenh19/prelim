@@ -33,3 +33,6 @@ As a concept, **gene therapy** has been around for decades. But it has only rece
 
 
 ### Slides
+
+- [**Q2_HC.pptx](https://chenh19.github.io/prelim/slides/Q2/Q2_HC.pptx)
+- [**Q2_HC.pdf](https://chenh19.github.io/prelim/slides/Q2/Q2_HC.pdf)

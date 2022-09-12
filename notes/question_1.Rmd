@@ -34,3 +34,6 @@ Phenotypic differences between **gene knockouts** (*e.g.*, via mutations) and **
 
 
 ### Slides
+
+- [**Q1_HC.pptx](https://chenh19.github.io/prelim/slides/Q1/Q1_HC.pptx)
+- [**Q1_HC.pdf](https://chenh19.github.io/prelim/slides/Q1/Q1_HC.pdf)
